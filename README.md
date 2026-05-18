@@ -1,6 +1,8 @@
 # skellam.reg
 Skellam regression estimator Use skellam.reg (skellam) With (In) R Software
 
+https://www.youtube.com/watch?v=n7xk4t7xOio
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
